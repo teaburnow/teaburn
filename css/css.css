@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/u-4x0qWljRw-Pd8w__hImSRu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/u-480qWljRw-Pdfv2-hluyxEeQ5J.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/u-480qWljRw-PdeL2uhluyxEeQ5J.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/S6uyw4BMUTPHjx4wWyWtFCc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/S6u9w4BMUTPHh6UVSwiPHA3q5d0.ttf) format('truetype');
+}
